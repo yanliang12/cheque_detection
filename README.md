@@ -32,7 +32,7 @@ you will see
 
 > {'tag': 'cheque', 'score': 0.965304}
 
-as a negative example, you can downloand a non-cheque image, say, my campus photo, by 
+as a negative example, you can downloand a non-cheque image, say, my  campus photo, by 
 
 > wget https://www.ilwindia.com/wp-content/uploads/2019/08/Heriot-Watt-University-Dubai-1.jpg
 
