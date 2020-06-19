@@ -4,7 +4,7 @@ from pavi import *
 model = load_build_image_categorization_model(
 	model_file = 'cheque.h5py')
 
-def cheque_detection(input_file)
+def cheque_detection(input_file):
 	output = {}
 	img = image.load_img(input_fileinput_file, target_size=(224, 224))
 	x = image.img_to_array(img)
