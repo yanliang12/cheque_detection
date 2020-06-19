@@ -1,3 +1,5 @@
+**Setting up the cheque detector**
+
 to install the cheque detector model, you need Python 3.7.7 
 
 > git clone https://github.com/gaoyuanliang/cheque_detection.git
@@ -11,6 +13,8 @@ to install the cheque detector model, you need Python 3.7.7
 download the pretrain model of cheque detection from the following url
 
 > https://drive.google.com/file/d/1bvmDMn9h9CULtYp56Ql9UiyGZnMdzxiE/view?usp=sharing
+
+**Test with a positive case**
 
 to use the model to tag the image
 
@@ -31,6 +35,8 @@ run the test code
 you will see
 
 > {'tag': 'cheque', 'score': 0.965304}
+
+**Test with a negative case**
 
 as a negative example, you can downloand a non-cheque image, say, my  campus photo, by 
 
