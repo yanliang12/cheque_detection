@@ -1,4 +1,5 @@
-https://ask.careers/wp-content/uploads/2018/05/The-Dos-and-Donts-of-Using-Cheques-1024x768.jpg
+![alt text](https://ask.careers/wp-content/uploads/2018/05/The-Dos-and-Donts-of-Using-Cheques-1024x768.jpg)
+
 
 to install the cheque detector model, you need Python 3.7.7 
 
