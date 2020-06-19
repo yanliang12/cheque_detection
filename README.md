@@ -36,6 +36,11 @@ as a negative example, you can downloand a non-cheque image, say, my campus phot
 
 > wget https://www.ilwindia.com/wp-content/uploads/2019/08/Heriot-Watt-University-Dubai-1.jpg
 
+which looks like 
+
+![alt text](https://www.ilwindia.com/wp-content/uploads/2019/08/Heriot-Watt-University-Dubai-1.jpg)
+
+
 and then run the code to do the detection
 
 > cheque_detection("Heriot-Watt-University-Dubai-1.jpg")
