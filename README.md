@@ -27,3 +27,5 @@ run the test code
 > print(cheque_detection("test_sample1.jpg"))
 > 
 > print(cheque_detection("test_sample2.jpg"))
+>
+> print(cheque_detection("test_sample3.jpg"))
