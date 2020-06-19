@@ -30,3 +30,18 @@ run the test code
 
 you will see
 
+> {'tag': 'cheque', 'score': 0.965304}
+
+as a negative example, you can downloand a non-cheque image, say, my campus photo, by 
+
+> wget https://www.ilwindia.com/wp-content/uploads/2019/08/Heriot-Watt-University-Dubai-1.jpg
+
+and then run the code to do the detection
+
+> cheque_detection("Heriot-Watt-University-Dubai-1.jpg")
+
+and you get the followig result because there is no cheque in the image
+
+>  {}
+
+
