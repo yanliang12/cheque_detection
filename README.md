@@ -14,6 +14,7 @@ download the pretrain model of cheque detection from the following url
 
 > https://drive.google.com/file/d/1bvmDMn9h9CULtYp56Ql9UiyGZnMdzxiE/view?usp=sharing
 
+
 **Test with a positive case**
 
 to use the model to tag the image
@@ -35,6 +36,7 @@ run the test code
 you will see
 
 > {'tag': 'cheque', 'score': 0.965304}
+
 
 **Test with a negative case**
 
