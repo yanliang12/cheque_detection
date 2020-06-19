@@ -4,6 +4,6 @@ to use the model
 
 wget https://github.com/fchollet/deep-learning-models/releases/download/v0.4/xception_weights_tf_dim_ordering_tf_kernels_notop.h5
 
-2. download the pretrain model of cheque detection 
+2. download the pretrain model of cheque detection from the following url
 
-wget https://drive.google.com/file/d/1WZnNCKzgWVFJ9BCf2DE-V4u2wupoLDWa/view?usp=sharing
+https://drive.google.com/file/d/1WZnNCKzgWVFJ9BCf2DE-V4u2wupoLDWa/view?usp=sharing
