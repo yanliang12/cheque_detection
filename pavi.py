@@ -17,7 +17,6 @@ from tensorflow.keras.preprocessing import image
 from tensorflow.keras.applications import xception
 
 base_model_Xception = xception.Xception(weights='xception_weights_tf_dim_ordering_tf_kernels_notop.h5', include_top=False)
-#base_model_InceptionV3 = inception_v3.InceptionV3(weights='/root/inception_v3_weights_tf_dim_ordering_tf_kernels_notop.h5', include_top=False)
 
 def file_json2file_npy(input_json,
 	sqlContext,
