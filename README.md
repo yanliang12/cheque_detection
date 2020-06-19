@@ -17,8 +17,8 @@ to use the model to tag the image
 download the test images from 
 
 > https://drive.google.com/file/d/1ybziWKSwoY1Pf6_lDWw7P8EJz4pZj_jB/view?usp=sharing
-
 > https://drive.google.com/file/d/1OKL4Dgwg3gRA8wV3latQPEo7nNwvq1uR/view?usp=sharing
+> https://drive.google.com/file/d/1t96cmavHvQ5wSuIj01wEtgkSrvj-Vr0J/view?usp=sharing
 
 run the test code
 
