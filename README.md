@@ -4,7 +4,7 @@ to use the model
 >
 > cd cheque_detection
 >
-> pip3 install requirement.txt
+> pip3 install -r requirements.txt
 
 1. download the pretrained model of xception
 
