@@ -1,4 +1,4 @@
-to install the cheque detector model 
+to install the cheque detector model, you need Python 3.7.7 
 
 > git clone https://github.com/gaoyuanliang/cheque_detection.git
 >
