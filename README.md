@@ -1,6 +1,9 @@
 to use the model 
 
-1. git clone https://github.com/gaoyuanliang/cheque_detection.git
+git clone https://github.com/gaoyuanliang/cheque_detection.git
+
+cd cheque_detection
+pip3 install requirements.txt
 
 1. download the pretrained model of xception
 
