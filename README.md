@@ -1,6 +1,3 @@
-![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Sample_cheque.jpeg/1200px-Sample_cheque.jpeg)
-
-
 to install the cheque detector model, you need Python 3.7.7 
 
 > git clone https://github.com/gaoyuanliang/cheque_detection.git
@@ -17,18 +14,19 @@ download the pretrain model of cheque detection from the following url
 
 to use the model to tag the image
 
-download the test images from 
+download the test images by 
 
-> https://drive.google.com/file/d/1ybziWKSwoY1Pf6_lDWw7P8EJz4pZj_jB/view?usp=sharing
-> https://drive.google.com/file/d/1OKL4Dgwg3gRA8wV3latQPEo7nNwvq1uR/view?usp=sharing
-> https://drive.google.com/file/d/1t96cmavHvQ5wSuIj01wEtgkSrvj-Vr0J/view?usp=sharing
+> wget https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Sample_cheque.jpeg/1200px-Sample_cheque.jpeg
+
+you can check how the image looks like
+
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Sample_cheque.jpeg/1200px-Sample_cheque.jpeg)
 
 run the test code
 
 > from cheque_detection import cheque_detection
 >
-> print(cheque_detection("test_sample1.jpg"))
-> 
-> print(cheque_detection("test_sample2.jpg"))
->
-> print(cheque_detection("test_sample3.jpg"))
+> cheque_detection("1200px-Sample_cheque.jpeg")
+
+you will see
+
