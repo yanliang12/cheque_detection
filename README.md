@@ -21,3 +21,11 @@ download the test images from
 and 
 
 > https://drive.google.com/file/d/1OKL4Dgwg3gRA8wV3latQPEo7nNwvq1uR/view?usp=sharing
+
+run the test code
+
+> from cheque_detection import cheque_detection
+>
+> print(cheque_detection("test_sample1.jpg"))
+> 
+> print(cheque_detection("test_sample2.jpg"))
