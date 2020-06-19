@@ -1,4 +1,4 @@
-to use the model 
+to install the cheque detector model 
 
 > git clone https://github.com/gaoyuanliang/cheque_detection.git
 >
@@ -11,3 +11,5 @@ to use the model
 download the pretrain model of cheque detection from the following url
 
 > https://drive.google.com/file/d/1WZnNCKzgWVFJ9BCf2DE-V4u2wupoLDWa/view?usp=sharing
+
+to use the model to tag the image
