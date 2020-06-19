@@ -6,7 +6,7 @@ model = load_build_image_categorization_model(
 
 def cheque_detection(input_file):
 	output = {}
-	img = image.load_img(input_fileinput_file, target_size=(224, 224))
+	img = image.load_img(input_file, target_size=(224, 224))
 	x = image.img_to_array(img)
 	x = xception.preprocess_input(x)
 	x = numpy.array([x])
