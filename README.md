@@ -1,4 +1,4 @@
-https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Sample_cheque.jpeg/1200px-Sample_cheque.jpeg
+https://ask.careers/wp-content/uploads/2018/05/The-Dos-and-Donts-of-Using-Cheques-1024x768.jpg
 
 to install the cheque detector model, you need Python 3.7.7 
 
