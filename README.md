@@ -24,7 +24,9 @@ to use the model to tag the image
 
 download the test images by 
 
-> wget https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Sample_cheque.jpeg/1200px-Sample_cheque.jpeg
+```bash
+wget https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Sample_cheque.jpeg/1200px-Sample_cheque.jpeg
+```
 
 you can check how the image looks like
 
@@ -32,14 +34,17 @@ you can check how the image looks like
 
 run the test code
 
-> from cheque_detection import cheque_detection
->
-> cheque_detection("1200px-Sample_cheque.jpeg")
+```python
+from cheque_detection import cheque_detection
+
+cheque_detection("1200px-Sample_cheque.jpeg")
+```
 
 you will see
 
-> {'tag': 'cheque', 'score': 0.965304}
-
+```python
+{'tag': 'cheque', 'score': 0.965304}
+```
 
 **Test with a negative case**
 
