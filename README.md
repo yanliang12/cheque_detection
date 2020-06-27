@@ -50,7 +50,9 @@ you will see
 
 as a negative example, you can downloand a non-cheque image, say, my lovely campus photo, by 
 
-> wget https://www.ilwindia.com/wp-content/uploads/2019/08/Heriot-Watt-University-Dubai-1.jpg
+```bash
+wget https://www.ilwindia.com/wp-content/uploads/2019/08/Heriot-Watt-University-Dubai-1.jpg
+```
 
 which looks like 
 
@@ -59,10 +61,14 @@ which looks like
 
 and then run the code to do the detection
 
-> cheque_detection("Heriot-Watt-University-Dubai-1.jpg")
+```python
+cheque_detection("Heriot-Watt-University-Dubai-1.jpg")
+```
 
 and you get the followig result because there is no cheque in the image
 
->  {}
+```python
+{}
+```
 
 
