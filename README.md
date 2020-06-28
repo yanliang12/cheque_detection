@@ -1,7 +1,10 @@
 # tagging the images of cheque
 
+Tagging the images which have the bank cheque like
 
-**Setting up the cheque detector**
+![example of road signs](https://ask.careers/wp-content/uploads/2018/05/The-Dos-and-Donts-of-Using-Cheques-1024x768.jpg)
+
+### Installation
 
 to install the cheque detector model, you need Python 3.7.7 
 
