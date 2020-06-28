@@ -24,6 +24,8 @@ download the pretrain model of cheque detection from the following url
 https://drive.google.com/file/d/1bvmDMn9h9CULtYp56Ql9UiyGZnMdzxiE/view?usp=sharing
 ```
 
+### Using
+
 **Test with a positive case**
 
 to use the model to tag the image
