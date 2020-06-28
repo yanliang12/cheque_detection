@@ -1,3 +1,6 @@
+# tagging the images of cheque
+
+
 **Setting up the cheque detector**
 
 to install the cheque detector model, you need Python 3.7.7 
