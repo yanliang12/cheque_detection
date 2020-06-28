@@ -2,7 +2,7 @@
 
 Tagging the images which have the bank cheque like
 
-![example of road signs](https://ask.careers/wp-content/uploads/2018/05/The-Dos-and-Donts-of-Using-Cheques-1024x768.jpg)
+![example of road signs](https://freechequewriter.com/cs/image/TheCommercialBankOfQatar_QA.jpg)
 
 ### Installation
 
