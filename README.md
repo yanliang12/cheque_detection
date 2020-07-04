@@ -72,15 +72,15 @@ you can check how the image looks like
 run the test code
 
 ```python
-from cheque_detection import cheque_detection
+from  cheque_tagging import cheque_tagging
 
-cheque_detection("1200px-Sample_cheque.jpeg")
+cheque_tagging("1200px-Sample_cheque.jpeg")
 ```
 
 you will see
 
 ```python
-{'tag': 'cheque', 'score': 0.965304}
+{'score': 0.7404399, 'tag': 'cheque'}
 ```
 
 **Test with a negative case**
@@ -99,13 +99,13 @@ which looks like
 and then run the code to do the detection
 
 ```python
-cheque_detection("Heriot-Watt-University-Dubai-1.jpg")
+cheque_tagging("Heriot-Watt-University-Dubai-1.jpg")
 ```
 
 and you get the followig result because there is no cheque in the image
 
 ```python
-{}
+{'score': 1.0, 'tag': 'non_cheque'}
 ```
 
 
