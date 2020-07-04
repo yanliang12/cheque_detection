@@ -25,12 +25,12 @@ Tagging the images which have the bank cheque
   </tr>
   <tr>
     <td>
-      <img src="https://www.ilwindia.com/wp-content/uploads/2019/08/Heriot-Watt-University-Dubai-1.jpg" height="300">
+      <img src="https://www.fundsindia.com/blog/wp-content/uploads/2017/05/Valid.png" height="300">
     </td>
     <td>
       <pre>
 {
-  'score': 1.0, 
+  'score': 0.7928494, 
   'tag': 'non_cheque'
 }
 </pre>
@@ -38,12 +38,12 @@ Tagging the images which have the bank cheque
   </tr>
   <tr>
     <td>
-      <img src="https://m.media-amazon.com/images/G/01/AGS/SEA/SIV_3_Resized._SL1280_FMjpg_CB1541994278_.jpg" height="300">
+      <img src="https://www.ilwindia.com/wp-content/uploads/2019/08/Heriot-Watt-University-Dubai-1.jpg" height="300">
     </td>
     <td>
       <pre>
 {
-  'score': 0.92342573, 
+  'score': 1.0, 
   'tag': 'non_cheque'
 }
 </pre>
