@@ -1,6 +1,6 @@
 # tagging the images of bank cheque
 
-Tagging the images which have the bank cheque. The output has a tag of cheque or non-cheque, and a confidence score.
+Tagging the images which have the bank cheque. The output has a tag of cheque or non-cheque, and a confidence score between 0 and 1.
 
 <table>
   <thead>
