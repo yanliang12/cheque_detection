@@ -75,7 +75,7 @@ https://drive.google.com/file/d/1bvmDMn9h9CULtYp56Ql9UiyGZnMdzxiE/view?usp=shari
 
 **Test with a positive case**
 
-to use the model to tag the image, download the test images by 
+to use the model to tag the image, download the an image of cheque by 
 
 ```bash
 wget https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Sample_cheque.jpeg/1200px-Sample_cheque.jpeg
@@ -84,6 +84,8 @@ wget https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Sample_cheque.jpe
 you can check how the image looks like
 
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Sample_cheque.jpeg/1200px-Sample_cheque.jpeg)
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Sample_cheque.jpeg/1200px-Sample_cheque.jpeg" height="200">
 
 run the test code
 
