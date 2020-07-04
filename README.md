@@ -36,6 +36,19 @@ Tagging the images which have the bank cheque
 </pre>
     </td>
   </tr>
+  <tr>
+    <td>
+      <img src="https://m.media-amazon.com/images/G/01/AGS/SEA/SIV_3_Resized._SL1280_FMjpg_CB1541994278_.jpg" width="600">
+    </td>
+    <td>
+      <pre>
+{
+  'score': 0.92342573, 
+  'tag': 'non_cheque'
+}
+</pre>
+    </td>
+  </tr>
 </table>
 
 
