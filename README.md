@@ -15,12 +15,10 @@ Tagging the images which have the bank cheque. The output has a tag of cheque or
     </td>
     <td>
       <pre>
-```python
 {
   'score': 0.7404399, 
   'tag': 'cheque'
 }
-```
 </pre>
     </td>
   </tr>
