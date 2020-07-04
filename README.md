@@ -12,13 +12,13 @@ Tagging the images which have the bank cheque
   </thead>
   <tr>
     <td>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Sample_cheque.jpeg/1200px-Sample_cheque.jpeg" width="420">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Sample_cheque.jpeg/1200px-Sample_cheque.jpeg" width="600">
     </td>
     <td>
       <pre>
 {
-'tag': 'cheque', 
-'score': 0.965304
+  'tag': 'cheque', 
+  'score': 0.965304
 }</pre>
     </td>
   </tr>
