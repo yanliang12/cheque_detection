@@ -53,7 +53,7 @@ Tagging the images which have the bank cheque. The output has a tag of cheque or
 
 ### Installation
 
-to install the cheque detector model, you need Python 3.7.7 
+to install the cheque tagger model, you need Python 3.7.7. Then you can download the code and pre-trained models as follows
 
 ```bash
 git clone https://github.com/gaoyuanliang/cheque_detection.git
