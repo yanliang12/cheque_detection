@@ -30,7 +30,10 @@ Tagging the images which have the bank cheque
     <td>
       <pre>
 {
-}</pre>
+  'score': 1.0, 
+  'tag': 'non_cheque'
+}
+</pre>
     </td>
   </tr>
 </table>
