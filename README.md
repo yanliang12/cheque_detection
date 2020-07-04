@@ -22,6 +22,16 @@ Tagging the images which have the bank cheque
 }</pre>
     </td>
   </tr>
+  <tr>
+    <td>
+      <img src="https://www.ilwindia.com/wp-content/uploads/2019/08/Heriot-Watt-University-Dubai-1.jpg">
+    </td>
+    <td>
+      <pre>
+{
+}</pre>
+    </td>
+  </tr>
 </table>
 
 
