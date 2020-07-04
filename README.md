@@ -12,7 +12,7 @@ Tagging the images which have the bank cheque
   </thead>
   <tr>
     <td>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Sample_cheque.jpeg/1200px-Sample_cheque.jpeg" height="300">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Sample_cheque.jpeg/1200px-Sample_cheque.jpeg" height="200">
     </td>
     <td>
       <pre>
@@ -25,7 +25,7 @@ Tagging the images which have the bank cheque
   </tr>
   <tr>
     <td>
-      <img src="https://www.fundsindia.com/blog/wp-content/uploads/2017/05/Valid.png" height="300">
+      <img src="https://www.fundsindia.com/blog/wp-content/uploads/2017/05/Valid.png" height="200">
     </td>
     <td>
       <pre>
@@ -38,7 +38,7 @@ Tagging the images which have the bank cheque
   </tr>
   <tr>
     <td>
-      <img src="https://www.ilwindia.com/wp-content/uploads/2019/08/Heriot-Watt-University-Dubai-1.jpg" height="300">
+      <img src="https://www.ilwindia.com/wp-content/uploads/2019/08/Heriot-Watt-University-Dubai-1.jpg" height="200">
     </td>
     <td>
       <pre>
