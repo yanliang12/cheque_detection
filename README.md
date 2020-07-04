@@ -83,11 +83,9 @@ wget https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Sample_cheque.jpe
 
 you can check how the image looks like
 
-![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Sample_cheque.jpeg/1200px-Sample_cheque.jpeg)
-
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Sample_cheque.jpeg/1200px-Sample_cheque.jpeg" height="200">
 
-run the test code
+then run the test code
 
 ```python
 from  cheque_tagging import cheque_tagging
@@ -111,10 +109,9 @@ wget https://www.ilwindia.com/wp-content/uploads/2019/08/Heriot-Watt-University-
 
 which looks like 
 
-![alt text](https://www.ilwindia.com/wp-content/uploads/2019/08/Heriot-Watt-University-Dubai-1.jpg)
+<img src="https://www.ilwindia.com/wp-content/uploads/2019/08/Heriot-Watt-University-Dubai-1.jpg" height="200">
 
-
-and then run the code to do the detection
+and then run the code to do the tagging
 
 ```python
 cheque_tagging("Heriot-Watt-University-Dubai-1.jpg")
@@ -125,5 +122,3 @@ and you get the followig result because there is no cheque in the image
 ```python
 {'score': 1.0, 'tag': 'non_cheque'}
 ```
-
-
