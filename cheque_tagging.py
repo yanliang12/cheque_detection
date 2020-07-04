@@ -22,23 +22,27 @@ def cheque_tagging(input_file):
 	return output
 
 '''
-wget https://m.media-amazon.com/images/G/01/AGS/SEA/SIV_3_Resized._SL1280_FMjpg_CB1541994278_.jpg
 
-
-cheque_tagging("SIV_3_Resized._SL1280_FMjpg_CB1541994278_.jpg")
-
-{'score': 0.92342573, 'tag': 'non_cheque'}
-
-'''
-
-
-'''
 wget https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Sample_cheque.jpeg/1200px-Sample_cheque.jpeg
 
 
 cheque_tagging("1200px-Sample_cheque.jpeg")
 
 {'score': 0.7404399, 'tag': 'cheque'}
+
+
+wget https://www.fundsindia.com/blog/wp-content/uploads/2017/05/Valid.png
+
+cheque_tagging("Valid.png")
+
+{'score': 0.7928494, 'tag': 'non_cheque'}
+
+
+wget https://www.ilwindia.com/wp-content/uploads/2019/08/Heriot-Watt-University-Dubai-1.jpg
+
+cheque_tagging("Heriot-Watt-University-Dubai-1.jpg")
+
+{'score': 1.0, 'tag': 'non_cheque'}
 
 '''
 
