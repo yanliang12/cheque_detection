@@ -16,13 +16,14 @@ Tagging the images which have the bank cheque
     </td>
     <td>
       <pre>
-{'tag': 'cheque', 'score': 0.965304}
+{
+'tag': 'cheque', 
+'score': 0.965304
 }</pre>
     </td>
   </tr>
 </table>
 
-![example of road signs](https://freechequewriter.com/cs/image/TheCommercialBankOfQatar_QA.jpg)
 
 ### Installation
 
