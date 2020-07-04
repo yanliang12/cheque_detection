@@ -1,4 +1,4 @@
-# tagging the images of cheque
+# tagging the images of bank cheque
 
 Tagging the images which have the bank cheque 
 
