@@ -17,9 +17,10 @@ Tagging the images which have the bank cheque
     <td>
       <pre>
 {
-  'tag': 'cheque', 
-  'score': 0.965304
-}</pre>
+  'score': 0.7404399, 
+  'tag': 'cheque'
+}
+</pre>
     </td>
   </tr>
   <tr>
