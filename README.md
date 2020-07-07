@@ -16,8 +16,8 @@ Tagging the images which have the bank cheque. The output has a tag of cheque or
     <td>
       <pre>
 {
-  'score': 0.7404399, 
-  'tag': 'cheque'
+  'tag': 'cheque', 
+  'score': 0.7404399
 }
 </pre>
     </td>
@@ -29,8 +29,8 @@ Tagging the images which have the bank cheque. The output has a tag of cheque or
     <td>
       <pre>
 {
-  'score': 0.7928494, 
-  'tag': 'non_cheque'
+  'tag': 'non_cheque', 
+  'score': 0.7928494
 }
 </pre>
     </td>
@@ -42,8 +42,8 @@ Tagging the images which have the bank cheque. The output has a tag of cheque or
     <td>
       <pre>
 {
-  'score': 1.0, 
-  'tag': 'non_cheque'
+  'tag': 'non_cheque', 
+  'score': 1.0
 }
 </pre>
     </td>
