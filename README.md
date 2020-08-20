@@ -24,7 +24,7 @@ Tagging the images which have the bank cheque. The output has a tag of cheque or
   </tr>
   <tr>
     <td>
-      <img src="https://www.fundsindia.com/blog/wp-content/uploads/2017/05/Valid.png" height="200">
+      <img src="https://github.com/gaoyuanliang/cheque_detection/raw/master/WeChat%20Screenshot_20200820081825.png" height="200">
     </td>
     <td>
       <pre>
