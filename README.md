@@ -11,7 +11,7 @@ Tagging the images which have the bank cheque. The output has a tag of cheque or
   </thead>
   <tr>
     <td>
-      <img src="https://github.com/gaoyuanliang/cheque_detection/raw/master/WeChat%20Screenshot_20200820081723.png" height="200">
+      <img src="https://github.com/gaoyuanliang/cheque_detection/raw/master/WeChat%20Screenshot_20200820081723.png" width="400">
     </td>
     <td>
       <pre>
@@ -24,7 +24,7 @@ Tagging the images which have the bank cheque. The output has a tag of cheque or
   </tr>
   <tr>
     <td>
-      <img src="https://github.com/gaoyuanliang/cheque_detection/raw/master/WeChat%20Screenshot_20200820081825.png" height="200">
+      <img src="https://github.com/gaoyuanliang/cheque_detection/raw/master/WeChat%20Screenshot_20200820081825.png" width="400">
     </td>
     <td>
       <pre>
