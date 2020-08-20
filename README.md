@@ -11,7 +11,7 @@ Tagging the images which have the bank cheque. The output has a tag of cheque or
   </thead>
   <tr>
     <td>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Sample_cheque.jpeg/1200px-Sample_cheque.jpeg" height="200">
+      <img src="https://github.com/gaoyuanliang/cheque_detection/raw/master/WeChat%20Screenshot_20200820081723.png" height="200">
     </td>
     <td>
       <pre>
