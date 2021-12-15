@@ -127,6 +127,6 @@ and you get the followig result because there is no cheque in the image
 
 I trained this model from a data set of 536 cheque images and 38996 non-cheque images. This data set is collected by myself. The training is conducted over a GPU of Ali Cloud. The epoch number is 20, and the accuracy over the training set is 0.9984.
 
-If you need access to my training data set, or want to know more about the training details, please contact me by yanliang.kaust@gmail.com 
+If you need access to my training data set, or want to know more about the training details, please contact me by yanliang2345@outlook.com
 
 I am actively looking for data science/AI related job. If you have such oppertunity, thank you so much for contact me. I am ready for interview any time.
