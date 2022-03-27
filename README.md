@@ -11,7 +11,7 @@ Tagging the images which have the bank cheque. The output has a tag of cheque or
   </thead>
   <tr>
     <td>
-      <img src="https://github.com/gaoyuanliang/cheque_detection/raw/master/WeChat%20Screenshot_20200820081723.png" width="400">
+      <img src="WeChat%20Screenshot_20200820081723.png" width="400">
     </td>
     <td>
       <pre>
@@ -24,7 +24,7 @@ Tagging the images which have the bank cheque. The output has a tag of cheque or
   </tr>
   <tr>
     <td>
-      <img src="https://github.com/gaoyuanliang/cheque_detection/raw/master/WeChat%20Screenshot_20200820081825.png" width="400">
+      <img src="WeChat%20Screenshot_20200820081825.png" width="400">
     </td>
     <td>
       <pre>
@@ -37,7 +37,7 @@ Tagging the images which have the bank cheque. The output has a tag of cheque or
   </tr>
   <tr>
     <td>
-      <img src="https://github.com/gaoyuanliang/cheque_detection/raw/master/WeChat%20Screenshot_20200820082216.png" width="400">
+      <img src="WeChat%20Screenshot_20200820082216.png" width="400">
     </td>
     <td>
       <pre>
@@ -56,7 +56,7 @@ Tagging the images which have the bank cheque. The output has a tag of cheque or
 to install the cheque tagger model, you need Python 3.7.7. Then you can download the code and pre-trained models as follows
 
 ```bash
-git clone https://github.com/gaoyuanliang/cheque_detection.git
+git clone https://github.com/yanliang12/cheque_detection.git
 
 cd cheque_detection
 
